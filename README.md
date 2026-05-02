@@ -1,4 +1,4 @@
-  # ♻️ Minimalist Qtile (Wayland) ♻️
+<h3 align="center">♻️ Minimalist Qtile (Wayland) ♻️</h3>
 
 This repository contains my personal configuration files for Qtile window manager running on Wayland. Designed for simplicity, performance, and low resource usage.
 
