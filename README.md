@@ -1,4 +1,4 @@
-# ♻️ Minimalist Qtile (Wayland) Dotfiles for Arch-linux based ♻️
+  # ♻️ Minimalist Qtile (Wayland) ♻️
 
 This repository contains my personal configuration files for Qtile window manager running on Wayland. Designed for simplicity, performance, and low resource usage.
 
