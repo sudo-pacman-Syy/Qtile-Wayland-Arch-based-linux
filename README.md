@@ -9,11 +9,13 @@ This repository contains my personal configuration files for Qtile window manage
 ## 📘 About My Setup
 A clean, efficient environment focused on productivity.
 
-* **OS:** CachyOS (Arch Linux based)
-* **WM:** Qtile (Wayland session)
-* **Shell:** Fish 4.6.0
-* **Terminal:** Alacritty 0.17.0
-* **Status Bar:** Qtile Bar (customized)
+- OS: [**`Cachyos`**](https://github.com/CachyOS)
+ - WM: [**`Qtile (Wayladn)`**](https://github.com/qtile/qtile)
+ - Bar: [**`Qtile bar`**](https://docs.qtile.org/en/stable/manual/ref/widgets.html)
+ - Terminal: [**`Alacritty`**](https://github.com/alacritty/alacritty)
+ - App Launcher: [**`Rofi`**](https://github.com/davatorium/rofi)
+ - Shell: [**`Fish`**](https://github.com/fish-shell/fish-shell)
+ - File meneger: [**`Yazi`**](https://github.com/sxyazi/yazi)
 
 ## 🖥️ The Code
 The Qtile configuration is written entirely in Python, keeping it under 150 lines of clean, readable code.
