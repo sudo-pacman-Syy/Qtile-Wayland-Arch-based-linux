@@ -3,7 +3,7 @@
 This repository contains my personal configuration files for Qtile window manager running on Wayland. Designed for simplicity, performance, and low resource usage.
 
 <p align="center">
-  <img src="images/2026-05-02_17-32-58.png width="800" alt="Qtile Desktop Preview">
+  <img src="images/2026-05-02_17-32-58.png" width="800" alt="Qtile Desktop Preview">
 </p>
 
 ## 📘 About My Setup
