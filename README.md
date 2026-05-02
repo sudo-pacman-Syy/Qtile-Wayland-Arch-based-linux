@@ -23,3 +23,9 @@ The Qtile configuration is written entirely in Python, keeping it under 150 line
 <p align="center">
   <img src="images/2026-05-02_17-44-30.png" width="800" alt="Python Config Preview">
 </p>
+
+---
+
+<p align="center">
+  <img src="images/Firefox.png" width="800" alt="Firefox Preview">
+  </p>
