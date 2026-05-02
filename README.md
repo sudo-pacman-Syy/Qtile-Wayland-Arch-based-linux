@@ -3,7 +3,7 @@
 This repository contains my personal configuration files for Qtile window manager running on Wayland. Designed for simplicity, performance, and low resource usage.
 
 <p align="center">
-  <img src="path/to/your/photo_2026-05-02_17-32-47.jpg" width="800" alt="Qtile Desktop Preview">
+  <img src="2026-05-02_17-32-58.png width="800" alt="Qtile Desktop Preview">
 </p>
 
 ## 📘 About My Setup
@@ -19,5 +19,5 @@ A clean, efficient environment focused on productivity.
 The Qtile configuration is written entirely in Python, keeping it under 150 lines of clean, readable code.
 
 <p align="center">
-  <img src="path/to/your/photo_2026-05-02_17-44-43.jpg" width="800" alt="Python Config Preview">
+  <img src="2026-05-02_17-44-30.png" width="800" alt="Python Config Preview">
 </p>
