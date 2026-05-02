@@ -1,1 +1,25 @@
-# Qtile-Wayland-Arch-based-linux
+<h3 align="center">♻️ Minimalist Qtile (Wayland) ♻️</h3>
+
+This repository contains my personal configuration files for Qtile window manager running on Wayland. Designed for simplicity, performance, and low resource usage.
+
+<p align="center">
+  <img src="images/2026-05-02_17-32-58.png" width="800" alt="Qtile Desktop Preview">
+</p>
+
+## 📘 About My Setup
+A clean, efficient environment focused on productivity.
+
+- OS: [**`Cachyos`**](https://github.com/CachyOS)
+ - WM: [**`Qtile (Wayladn)`**](https://github.com/qtile/qtile)
+ - Bar: [**`Qtile bar`**](https://docs.qtile.org/en/stable/manual/ref/widgets.html)
+ - Terminal: [**`Alacritty`**](https://github.com/alacritty/alacritty)
+ - App Launcher: [**`Rofi`**](https://github.com/davatorium/rofi)
+ - Shell: [**`Fish`**](https://github.com/fish-shell/fish-shell)
+ - File meneger: [**`Yazi`**](https://github.com/sxyazi/yazi)
+
+## 🖥️ The Code
+The Qtile configuration is written entirely in Python, keeping it under 150 lines of clean, readable code.
+
+<p align="center">
+  <img src="images/2026-05-02_17-44-30.png" width="800" alt="Python Config Preview">
+</p>
