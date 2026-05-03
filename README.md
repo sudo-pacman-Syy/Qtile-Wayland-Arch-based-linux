@@ -1,4 +1,4 @@
-<h3 align="center">♻️ Minimalist Qtile (Wayland) ♻️</h3>
+<h3 align="center">♻️🐧 Minimalist Qtile (Wayland) 🐧♻️</h3>
 
 This repository contains my personal configuration files for Qtile window manager running on Wayland. Designed for simplicity, performance, and low resource usage.
 
@@ -31,8 +31,20 @@ The Qtile configuration is written entirely in Python, keeping it under 150 line
   </p>
 
 
-## How to use ??
+## 🎱 How to use ??
 - 1.`git clone https://github.com/sudo-pacman-Syy/Qtile-Wayland-Arch-based-linux.git`
 - 2.`cd Qtile-Wayland-Arch-based-linux`
 - 3.`sudo ./install.sh`
 - 4.`Suped + ctrl + r`
+
+## 🗲 Command Qtile 
+- `super + enter` open terminal
+- `super + h + j + k + l` moving by terminal
+- `super + '+'` control sound (up)
+- `super + '-'` control sound (down)
+- `super + control + r` restart qtile
+- `super + w` kill focused window
+- `super + taq` change layout
+- `super + alt` open rofi
+- `PRTSC` print screen
+
