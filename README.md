@@ -33,6 +33,6 @@ The Qtile configuration is written entirely in Python, keeping it under 150 line
 
 ## How to use ??
 1.`git clone https://github.com/sudo-pacman-Syy/Qtile-Wayland-Arch-based-linux.git`
-2. `cd Qtile-Wayland-Arch-based-linux`
-3. `sudo ./install.sh`
-4. `Suped + ctrl + r`
+2.`cd Qtile-Wayland-Arch-based-linux`
+3.`sudo ./install.sh`
+4.`Suped + ctrl + r`
