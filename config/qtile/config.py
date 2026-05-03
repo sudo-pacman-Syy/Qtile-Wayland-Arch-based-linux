@@ -106,7 +106,7 @@ screens = [
 # Autostart
 @hook.subscribe.startup_once
 def autostart():
-    wallpaper_path = os.path.expanduser("/home/sero/Downloads/Garou Skull Pose Wallpaper_waifu.png")
+    wallpaper_path = os.path.expanduser("images/Garou Skull Pose Wallpaper_waifu.png")
     subprocess.Popen(["swaybg", "-i", wallpaper_path, "-m", "fill"])
 
 
