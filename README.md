@@ -16,6 +16,7 @@ A clean, efficient environment focused on productivity.
  - App Launcher: [**`Rofi`**](https://github.com/davatorium/rofi)
  - Shell: [**`Fish`**](https://github.com/fish-shell/fish-shell)
  - File meneger: [**`Yazi`**](https://github.com/sxyazi/yazi)
+ - notification: [*`Mako`*](https://github.com/emersion/mako)
 
 ## 🖥️ The Code
 The Qtile configuration is written entirely in Python, keeping it under 150 lines of clean, readable code.
