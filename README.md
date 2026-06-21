@@ -18,7 +18,7 @@ A clean, efficient environment focused on productivity.
  - File meneger: [**`Yazi`**](https://github.com/sxyazi/yazi)
  - notification: [**`Mako`**](https://github.com/emersion/mako)
 
-## 🖥️ The Code
+## The Code
 The Qtile configuration is written entirely in Python, keeping it under 150 lines of clean, readable code.
 
 <p align="center">
@@ -33,7 +33,7 @@ The Qtile configuration is written entirely in Python, keeping it under 150 line
 
 
 
-## 🌐 Firefox
+## Firefox
 
 <p align="center">
   <img src="images/Firefox.png" width="800" alt="Firefox Preview">
