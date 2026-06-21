@@ -109,6 +109,7 @@ def autostart():
     wallpaper_path = os.path.expanduser("images/Garou Skull Pose Wallpaper_waifu.png")
     subprocess.Popen(["swaybg", "-i", wallpaper_path, "-m", "fill"])
     subprocess.Popen(["mako"])
+    subprocess.Popen(['wl-paste', '--type', 'text', '--watch', 'cliphist', 'store'])
 
 
 floating_layout = layout.Floating(float_rules=[Match(wm_class="confirmreset")])
