@@ -25,10 +25,6 @@ wl_input_rules = {
         kb_options="grp:alt_shift_toggle",
     ),
 }
-def run_waybar():
-    subprocess.Popen(["killall", "waybar"])
-    subprocess.Popen(["waybar"])
-
 
 keys = [
     Key([mod], "h", lazy.layout.left(), desc="Move focus to left"),
