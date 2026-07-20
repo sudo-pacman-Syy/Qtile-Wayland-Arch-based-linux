@@ -56,4 +56,5 @@ The Qtile configuration is written entirely in Python, keeping it under 150 line
 - `super + taq` change layout
 - `super + alt` open rofi
 - `PRTSC` print screen
+- `super + shift + p` shutdown system
 
