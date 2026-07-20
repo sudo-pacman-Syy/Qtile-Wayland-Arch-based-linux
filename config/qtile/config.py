@@ -44,6 +44,7 @@ keys = [
     Key([mod], "Tab", lazy.next_layout(), desc="Toggle layout"),
     Key([mod], "equal", lazy.spawn("pactl set-sink-volume 0 +10%"), desc='Volume Up'),
     Key([mod], "minus", lazy.spawn("pactl set-sink-volume 0 -10%"), desc='volume down'),
+    Key([mod, "shift"], "p", lazy.spawn("systemctl poweroff"), desc="Shut down system"),
     #Open Rofi
     Key([mod1], "space", lazy.spawn("rofi -show drun"), desc="Rofi launcher"),
     #Screenshot
