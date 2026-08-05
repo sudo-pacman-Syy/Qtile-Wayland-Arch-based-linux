@@ -92,6 +92,7 @@ screens = [
             widget.Memory(format='  RAM {MemUsed:.0f}{mm}', foreground=colors["accent"]),
             widget.CPU(format='CPU  {load_percent}%', foreground=colors["accent"], padding=10),
             widget.PulseVolume(fmt='VOL: {} ',foreground=colors["accent"]),
+            widget.StatusNotifier(icon_size=20, padding=4),
             ],
             23, # heigh bar
             background=colors["bg"],
